@@ -15,6 +15,7 @@ sudo docker-compose up
 Once this is done and docker is running you can point your web browser of choice to `localhost:8000` and set up an admin account!
 
 ## Importing the CTF files
+Download `angr-ctf-config.zip`. Log in as an administrator on the CTF website, and navigate to Config/Backup. Select the file and click import!
 
 ## Public Hosting
 For instructions on how to host this CTF on the open internet, see this guide: https://medium.com/shellpwn/hosting-your-own-ctf-765607dbe06f  
